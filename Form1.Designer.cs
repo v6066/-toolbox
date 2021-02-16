@@ -234,7 +234,9 @@ namespace 工具箱
             this.Controls.Add(this.button17);
             this.Controls.Add(this.button21);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "Form1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "工具箱";
             this.ResumeLayout(false);
 
