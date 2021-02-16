@@ -45,6 +45,7 @@ namespace 工具箱
             this.button22 = new System.Windows.Forms.Button();
             this.button23 = new System.Windows.Forms.Button();
             this.button24 = new System.Windows.Forms.Button();
+            this.button5 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // button1
@@ -212,6 +213,15 @@ namespace 工具箱
             this.button24.UseVisualStyleBackColor = true;
             this.button24.Click += new System.EventHandler(this.button24_Click);
             // 
+            // button5
+            // 
+            this.button5.Location = new System.Drawing.Point(834, 600);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(27, 21);
+            this.button5.TabIndex = 1;
+            this.button5.UseVisualStyleBackColor = true;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
@@ -219,6 +229,7 @@ namespace 工具箱
             this.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("$this.BackgroundImage")));
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.ClientSize = new System.Drawing.Size(873, 633);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.button20);
             this.Controls.Add(this.button24);
             this.Controls.Add(this.button4);
@@ -238,6 +249,7 @@ namespace 工具箱
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "工具箱";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
 
         }
@@ -259,6 +271,7 @@ namespace 工具箱
         private System.Windows.Forms.Button button22;
         private System.Windows.Forms.Button button23;
         private System.Windows.Forms.Button button24;
+        private System.Windows.Forms.Button button5;
     }
 }
 

@@ -92,5 +92,17 @@ namespace 工具箱
         {
            //后续添加
         }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("maker:vapts");
+            MessageBox.Show("因为路径不同，有需求的话请自行修改");
+            this.Close();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            MessageBox.Show("欢迎使用工具箱！");
+        }
     }
 }
