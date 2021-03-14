@@ -1,0 +1,10 @@
+C:\Users\123\source\repos\工具箱\bin\Debug\工具箱.exe.config
+C:\Users\123\source\repos\工具箱\bin\Debug\工具箱.exe
+C:\Users\123\source\repos\工具箱\bin\Debug\工具箱.pdb
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.Form1.resources
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.Properties.Resources.resources
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.csproj.GenerateResource.cache
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.csproj.CoreCompileInputs.cache
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.exe
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.pdb
+C:\Users\123\source\repos\工具箱\obj\Debug\工具箱.csprojAssemblyReference.cache
